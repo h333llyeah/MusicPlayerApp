@@ -1,0 +1,15 @@
+C:\Users\shuki\source\repos\MusicPlayerApp12\MusicPlayerApp12\bin\Debug\MusicPlayerApp12.exe.config
+C:\Users\shuki\source\repos\MusicPlayerApp12\MusicPlayerApp12\bin\Debug\MusicPlayerApp12.exe
+C:\Users\shuki\source\repos\MusicPlayerApp12\MusicPlayerApp12\bin\Debug\MusicPlayerApp12.pdb
+C:\Users\shuki\source\repos\MusicPlayerApp12\MusicPlayerApp12\bin\Debug\Interop.WMPLib.dll
+C:\Users\shuki\source\repos\MusicPlayerApp12\MusicPlayerApp12\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\shuki\source\repos\MusicPlayerApp12\MusicPlayerApp12\obj\Debug\MusicPlayerApp12.csproj.AssemblyReference.cache
+C:\Users\shuki\source\repos\MusicPlayerApp12\MusicPlayerApp12\obj\Debug\Interop.WMPLib.dll
+C:\Users\shuki\source\repos\MusicPlayerApp12\MusicPlayerApp12\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\shuki\source\repos\MusicPlayerApp12\MusicPlayerApp12\obj\Debug\MusicPlayerApp12.csproj.ResolveComReference.cache
+C:\Users\shuki\source\repos\MusicPlayerApp12\MusicPlayerApp12\obj\Debug\MusicPlayerApp12.Form1.resources
+C:\Users\shuki\source\repos\MusicPlayerApp12\MusicPlayerApp12\obj\Debug\MusicPlayerApp12.Properties.Resources.resources
+C:\Users\shuki\source\repos\MusicPlayerApp12\MusicPlayerApp12\obj\Debug\MusicPlayerApp12.csproj.GenerateResource.cache
+C:\Users\shuki\source\repos\MusicPlayerApp12\MusicPlayerApp12\obj\Debug\MusicPlayerApp12.csproj.CoreCompileInputs.cache
+C:\Users\shuki\source\repos\MusicPlayerApp12\MusicPlayerApp12\obj\Debug\MusicPlayerApp12.exe
+C:\Users\shuki\source\repos\MusicPlayerApp12\MusicPlayerApp12\obj\Debug\MusicPlayerApp12.pdb
